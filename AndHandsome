@@ -1,1 +1,12 @@
+--[[
+
+██╗  ██╗ █████╗ ██████╗ ██╗    ██╗    ██╗
+██║ ██╔╝██╔══██╗██╔══██╗██║    ██║    ██║
+█████╔╝ ███████║██████╔╝██║    ██║ █╗ ██║
+██╔═██╗ ██╔══██║██╔══██╗██║    ██║███╗██║
+██║  ██╗██║  ██║██║  ██║██████╗╚███╔███╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══╝╚══╝ 
+
+--]]
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kar1l/betteraimviewer/main/betteraimviewerthatsmoreproomgnolienolienolienolienolie"))()
